@@ -1,6 +1,6 @@
 {
   "name": "capture-pic",
-  "version": "0.0.6",
+  "version": "2.0.0",
   "private": false,
   "main": "dist/index.js",
   "types": "dist/src/index.d.ts",
